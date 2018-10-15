@@ -1,4 +1,4 @@
-package com.gohardani.samples.patterns.singleton;
+package com.gohardani.samples.patterns.creational.singleton;
 
 import java.lang.reflect.Constructor;
 
